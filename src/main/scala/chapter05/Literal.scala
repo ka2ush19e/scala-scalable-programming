@@ -1,6 +1,6 @@
 package chapter05
 
-object Literals {
+object Literal {
   def main(args: Array[String]) {
     println(0x35)
     println(035)

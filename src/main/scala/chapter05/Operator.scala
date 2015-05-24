@@ -1,6 +1,6 @@
 package chapter05
 
-object Operators {
+object Operator {
   def main(args: Array[String]) {
     println(-2)
     println(2.unary_-)
