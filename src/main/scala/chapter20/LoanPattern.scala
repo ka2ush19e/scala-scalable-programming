@@ -1,4 +1,4 @@
-package chpater20
+package chapter20
 
 object LoanPattern {
   def using[T <: {def close() : Unit}, S](obj: T)(operation: T => S) = {

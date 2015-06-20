@@ -1,4 +1,4 @@
-package chpater20
+package chapter20
 
 object Demo {
   lazy val x = {println("initializing x"); "done"}

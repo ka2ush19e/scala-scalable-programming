@@ -1,4 +1,4 @@
-package chpater20
+package chapter20
 
 object Direction extends Enumeration {
   val North, East, South, West = Value

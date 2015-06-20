@@ -1,4 +1,4 @@
-package chpater20
+package chapter20
 
 trait RationalTrait {
   val numerArg: Int
